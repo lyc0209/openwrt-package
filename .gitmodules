@@ -2,7 +2,7 @@
 	path = helloworld
 	url = https://github.com/fw876/helloworld.git
 [submodule "openwrt-passwall"]
-	path = openwrt-passwall
+	path = luci-app-passwall
 	url = https://github.com/xiaorouji/openwrt-passwall
 [submodule "luci-theme-argon-18.06"]
 	path = luci-theme-argon-18.06
