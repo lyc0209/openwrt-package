@@ -11,3 +11,6 @@
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "luci-app-amlogic"]
+	path = luci-app-amlogic
+	url = https://github.com/ophub/luci-app-amlogic.git
